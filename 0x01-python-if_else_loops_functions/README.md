@@ -1,2 +1,2 @@
 # alx high level programming learning python
-<img src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" height="300px" width="500px"/>
+<img src="https://miro.medium.com/max/4800/1*m0H6-tUbW6grMlezlb52yw.png" height="300px" width="500px"/>

@@ -5,4 +5,3 @@ def max_integer(my_list=[]):
         if i > larg:
             larg = i
     return larg
-

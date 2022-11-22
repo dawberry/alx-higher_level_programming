@@ -7,7 +7,13 @@ class Rectangle:
     """Rectangle class"""
 
     def __init__(self, width=0, height=0):
-        """Class instance method"""
+        """Class instance method.
+        
+        Args:
+            
+            width (int): the width value
+            height (int): the height value
+        """
         self.width = width
         self.height = width
 
